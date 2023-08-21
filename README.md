@@ -9,4 +9,5 @@ A classic PC brick out game created in Unity.
 
 ![image](https://github.com/athe-cpu/Brick-out/assets/83352578/1001e473-842f-4c77-b573-67fbf3151968)
 
+![image](https://github.com/athe-cpu/Brick-out/assets/83352578/2be619f9-9f63-40ca-89a0-f69499251305)
 
